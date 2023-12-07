@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [flatball-stat-tracker](https://github.com/LouieTang/flatball-stat-tracker)
 
-- 🌱 I’m currently learning **React.js, Front-End Testing**
+- 🌱 I’m currently learning **React.js, MongoDB**
 
 - 💬 Ask me about **Android Development, OOP, Data Structures, Algorithms**
-
-- 📫 Reach me at **louietangdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
