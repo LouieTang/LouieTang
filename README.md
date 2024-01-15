@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Louie Tang</h1>
 <h3 align="center">I'm a Computer Engineering Student based out of Vancouver, British Columbia</h3>
 
-- 🔭 I’m currently working on [flatball-stat-tracker](https://github.com/LouieTang/flatball-stat-tracker)
+- 🔭 I’m currently working on [flatball-stat-tracker](https://github.com/LouieTang/flatball-stat-tracker) and [grocery-manager](https://github.com/zacharytseng03/404-group-not-found)
 
-- 🌱 I’m currently learning **React.js, MongoDB**
+- 🌱 I’m currently learning **React.js, MongoDB, MySQL**
 
 - 💬 Ask me about **Android Development, OOP, Data Structures, Algorithms**
 
