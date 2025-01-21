@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Louie Tang</h1>
 <h3 align="center">I'm a Computer Engineering Student based out of Vancouver, British Columbia</h3>
 
-- 🔭 I’m currently working on [flatball-stat-tracker](https://github.com/LouieTang/flatball-stat-tracker) and [grocery-manager](https://github.com/LouieTang/grocery-manager)
+- 🔭 I’m currently working on an image autograder using a FSM in tandem with an LLM, and creating an Autograder LLM Agent (repository coming soon).
 
-- 🌱 I’m currently learning **React.js, MongoDB, MySQL**
+- 🌱 I’m currently learning about **Deep Learning, Advanced Relational Databases**
 
-- 💬 Ask me about **Android Development, OOP, Data Structures, Algorithms**
+- 💬 Ask me about **Solving Real World Problems, My Experiences**
 
-<h3 align="left">Connect with me:</h3>
+- 💻 Learn more by visiting **<a href="https://louietang.github.io/">My Website</a>**.
+
+<h3 align="left">Where To Find Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/louie-tang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louie-tang" height="30" width="40" /></a>
+<a href="https://twitter.com/louietang_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="louietang" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/louietang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="louietang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
