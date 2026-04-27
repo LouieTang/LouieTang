@@ -1,27 +1,14 @@
-# Hi 👋, I'm Louie Tang
+## Hi, I'm Louie 👋
 
-### I'm a Computer Engineering Student at the University of British Columbia
+Computer Engineering at UBC, graduating May 2026.
 
-- 🌱 I’m currently learning about **Deep Learning and Advanced Relational Databases**.
-- 🔭 I'm passionate about applying computer engineering to solve real-world problems, with interests in **Machine Learning, Web Development, and Cybersecurity**.
-- 💻 Learn more by visiting **[My Website](https://louietang.github.io/)**.
+### What I'm working on
+- 🎓 Recently wrapped my capstone - an mmWave radar health-monitoring system built for industry sponsor Delta Controls. [Featured in UBC Engineering News](https://engineering.ubc.ca/news/2026/ubc-engineering-students-innovate-for-impact)
 
-## Where To Find Me:
+### Stack
+**Languages:** Python · TypeScript · JavaScript · Java · C/C++  
+**Web:** Django · Next.js · React · Node.js · Tailwind  
+**Infra & Data:** Docker · AWS · GCP · PostgreSQL · Redis · ChromaDB
 
-<p align="left">
-  <a href="https://github.com/LouieTang" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
-  </a>
-  <a href="https://www.linkedin.com/in/louie-tang" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/louietang_" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"/>
-  </a>
-  <a href="https://devpost.com/louietang" target="_blank">
-      <img src="https://img.shields.io/badge/-DevPost-163E52?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/>
-  </a>
-  <a href="https://leetcode.com/u/LouieTang/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-F1A340?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</p>
+### Where to find me
+[Portfolio](https://louietang.github.io/) · [LinkedIn](https://linkedin.com/in/louie-tang) · [Devpost](https://devpost.com/louietang) · [LeetCode](https://leetcode.com/u/LouieTang) · [X](https://x.com/louietang_)
